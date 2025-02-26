@@ -2,4 +2,4 @@
 
 Guide for self-hosting Notesnook on QNAP Container Station.
 
-See the [wiki guide here](/wiki).
+See the [wiki guide here](https://github.com/XP1/Notesnook-QNAP-guide/wiki).
