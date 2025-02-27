@@ -9,8 +9,8 @@ x-server-discovery: &server-discovery
   # IDENTITY_SERVER_URL: ${AUTH_SERVER_PUBLIC_URL}
   IDENTITY_SERVER_URL: http://identity-server:8264
   #IDENTITY_SERVER_URL: https://auth.notesnook.local.network:5265
-# NOTESNOOK_APP_HOST: ${NOTESNOOK_APP_PUBLIC_URL}
-NOTESNOOK_APP_HOST: https://app.notesnook.com
+  # NOTESNOOK_APP_HOST: ${NOTESNOOK_APP_PUBLIC_URL}
+  NOTESNOOK_APP_HOST: https://app.notesnook.com
 
 x-env-files: &env-files
   - /share/CACHEDEV1_DATA/Container/Docker/Notesnook/.env
