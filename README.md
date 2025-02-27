@@ -9,25 +9,18 @@ See the [wiki guide here](https://github.com/XP1/Notesnook-QNAP-guide/wiki).
 ## Other guides
 
 * Notesnook sync server: a Noob-Friendly Setup Tutorial:
-
-  https://lemmy.ml/post/25006407
-
+    * https://lemmy.ml/post/25006407
 * How to selfhost Notesnook:
-
-  https://monogr.ph/66add1680f119badfa65686f/
+    * https://monogr.ph/66add1680f119badfa65686f/
 
 ## See also
 
 * streetwriters/notesnook-sync-server: Sync server for Notesnook:
-
-  https://github.com/streetwriters/notesnook-sync-server
+    * https://github.com/streetwriters/notesnook-sync-server
 
 ## External links
 
 * Notesnook:
-
-  https://notesnook.com/
-
+    * https://notesnook.com/
 * QNAP Container Station:
-
-  https://www.qnap.com/en/software/container-station
+    * https://www.qnap.com/en/software/container-station
